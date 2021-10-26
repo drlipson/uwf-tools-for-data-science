@@ -1,6 +1,9 @@
 # Comment your code so it is readable 
 
-This is my changes
+#This is my changes
+# This is great 
+# This is Good
+
 # Library / package
 library(datasets)
 library(boot)
